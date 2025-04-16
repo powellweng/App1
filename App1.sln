@@ -6,8 +6,6 @@ Project("{C7167F0D-BC9F-4E6E-AFE1-012C56B48DB5}") = "App1 (Package)", "App1\App1
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "App1", "App1\App1\App1.csproj", "{55037E28-D303-49BC-8073-347F601EB0CA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MauiApp1", "MauiApp1\MauiApp1.csproj", "{0373901D-3CCC-4449-94A1-E61AFE521946}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|ARM64 = Debug|ARM64
@@ -48,24 +46,6 @@ Global
 		{55037E28-D303-49BC-8073-347F601EB0CA}.Release|x64.Build.0 = Release|x64
 		{55037E28-D303-49BC-8073-347F601EB0CA}.Release|x86.ActiveCfg = Release|x86
 		{55037E28-D303-49BC-8073-347F601EB0CA}.Release|x86.Build.0 = Release|x86
-		{0373901D-3CCC-4449-94A1-E61AFE521946}.Debug|ARM64.ActiveCfg = Debug|Any CPU
-		{0373901D-3CCC-4449-94A1-E61AFE521946}.Debug|ARM64.Build.0 = Debug|Any CPU
-		{0373901D-3CCC-4449-94A1-E61AFE521946}.Debug|ARM64.Deploy.0 = Debug|Any CPU
-		{0373901D-3CCC-4449-94A1-E61AFE521946}.Debug|x64.ActiveCfg = Debug|Any CPU
-		{0373901D-3CCC-4449-94A1-E61AFE521946}.Debug|x64.Build.0 = Debug|Any CPU
-		{0373901D-3CCC-4449-94A1-E61AFE521946}.Debug|x64.Deploy.0 = Debug|Any CPU
-		{0373901D-3CCC-4449-94A1-E61AFE521946}.Debug|x86.ActiveCfg = Debug|Any CPU
-		{0373901D-3CCC-4449-94A1-E61AFE521946}.Debug|x86.Build.0 = Debug|Any CPU
-		{0373901D-3CCC-4449-94A1-E61AFE521946}.Debug|x86.Deploy.0 = Debug|Any CPU
-		{0373901D-3CCC-4449-94A1-E61AFE521946}.Release|ARM64.ActiveCfg = Release|Any CPU
-		{0373901D-3CCC-4449-94A1-E61AFE521946}.Release|ARM64.Build.0 = Release|Any CPU
-		{0373901D-3CCC-4449-94A1-E61AFE521946}.Release|ARM64.Deploy.0 = Release|Any CPU
-		{0373901D-3CCC-4449-94A1-E61AFE521946}.Release|x64.ActiveCfg = Release|Any CPU
-		{0373901D-3CCC-4449-94A1-E61AFE521946}.Release|x64.Build.0 = Release|Any CPU
-		{0373901D-3CCC-4449-94A1-E61AFE521946}.Release|x64.Deploy.0 = Release|Any CPU
-		{0373901D-3CCC-4449-94A1-E61AFE521946}.Release|x86.ActiveCfg = Release|Any CPU
-		{0373901D-3CCC-4449-94A1-E61AFE521946}.Release|x86.Build.0 = Release|Any CPU
-		{0373901D-3CCC-4449-94A1-E61AFE521946}.Release|x86.Deploy.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
