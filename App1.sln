@@ -6,6 +6,8 @@ Project("{C7167F0D-BC9F-4E6E-AFE1-012C56B48DB5}") = "App1 (Package)", "App1\App1
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "App1", "App1\App1\App1.csproj", "{55037E28-D303-49BC-8073-347F601EB0CA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MauiApp1", "MauiApp1\MauiApp1.csproj", "{BB80232C-8381-4CC9-B83E-04B2110FE74F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|ARM64 = Debug|ARM64
@@ -46,6 +48,18 @@ Global
 		{55037E28-D303-49BC-8073-347F601EB0CA}.Release|x64.Build.0 = Release|x64
 		{55037E28-D303-49BC-8073-347F601EB0CA}.Release|x86.ActiveCfg = Release|x86
 		{55037E28-D303-49BC-8073-347F601EB0CA}.Release|x86.Build.0 = Release|x86
+		{BB80232C-8381-4CC9-B83E-04B2110FE74F}.Debug|ARM64.ActiveCfg = Debug|Any CPU
+		{BB80232C-8381-4CC9-B83E-04B2110FE74F}.Debug|ARM64.Build.0 = Debug|Any CPU
+		{BB80232C-8381-4CC9-B83E-04B2110FE74F}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{BB80232C-8381-4CC9-B83E-04B2110FE74F}.Debug|x64.Build.0 = Debug|Any CPU
+		{BB80232C-8381-4CC9-B83E-04B2110FE74F}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{BB80232C-8381-4CC9-B83E-04B2110FE74F}.Debug|x86.Build.0 = Debug|Any CPU
+		{BB80232C-8381-4CC9-B83E-04B2110FE74F}.Release|ARM64.ActiveCfg = Release|Any CPU
+		{BB80232C-8381-4CC9-B83E-04B2110FE74F}.Release|ARM64.Build.0 = Release|Any CPU
+		{BB80232C-8381-4CC9-B83E-04B2110FE74F}.Release|x64.ActiveCfg = Release|Any CPU
+		{BB80232C-8381-4CC9-B83E-04B2110FE74F}.Release|x64.Build.0 = Release|Any CPU
+		{BB80232C-8381-4CC9-B83E-04B2110FE74F}.Release|x86.ActiveCfg = Release|Any CPU
+		{BB80232C-8381-4CC9-B83E-04B2110FE74F}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
